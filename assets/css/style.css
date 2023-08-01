@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+  }
+
+.bg-image{
+  background-image: url('https://img.freepik.com/free-photo/creative-flat-lay-photo-workspace-desk_7861-978.jpg?w=1380&t=st=1671271282~exp=1671271882~hmac=bf5d5ed7c8cdbea28057e80bfad2e77108a2c4e5775c81caf49cae42bf65f083');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+

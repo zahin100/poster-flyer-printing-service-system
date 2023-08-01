@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: #0fa2e1;
+}
+
+.emp-login {
+  background-color: #f1f1f1;
+  width: 350px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  border: solid;
+  padding: 0 70px;
+  border-radius: 20px;
+}
+
+.emp-login h1 {
+  font-size: 40px;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 40px 0;
+}
+
+.emp-login p {
+  font-size: 20px;
+  margin: 15px 0;
+}
+
+.emp-login button {
+  background-color: #0fa2e1;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 20px 90px;
+  padding: 10px 15px;
+  width: 50%;
+  border-radius: 5px;
+  border: solid;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  display: inline-block;
+  position: relative;
+  z-index: 1;
+  padding: 2em;
+  margin: -2em;
+}
+
+.emp-login button:hover {
+  color: #f1f1f1;
+  background-color: black;
+  cursor: pointer;
+}
+
+h4 {
+  text-align: center;
+}
