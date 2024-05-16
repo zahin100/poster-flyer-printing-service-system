@@ -59,7 +59,7 @@ include('dbconn.php');
                                     -->
 
                                     <!-- Submit button -->
-                                    <a class="btn btn-primary btn-block mb-4" href="dashboard.php" role="button">Back</a>
+                                    <a class="btn btn-primary btn-block mb-4" href="../html/workshop2_homepage.html" role="button">Back</a>
                                     <button type="submit" name="loginBtn"class="btn btn-primary btn-block mb-4">
                                         Log In</button>
                                 </div>
